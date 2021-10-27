@@ -5,7 +5,7 @@ The information below can be used as a template for your own home page.
 
 Hi I'm Summer,
 
-I'm currently studying at the University of Essex. Focusing mainly on economics and history.
+I'm currently studying at the University of Essex. Focusing my study mainly on economics within history and how the state of the economy reflects the events occouring in different eras.
 
 
 <br>
