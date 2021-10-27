@@ -1,43 +1,24 @@
 The information below can be used as a template for your own home page. 
 
-## Krisztian Hofstadter
-**Creative technologist with teaching, technical and artistic skills**  
+## Summer Kerr
+**History and Economics Student**  
 
-Hello! My name is Krisztian Hofstadter, aka tEdör. 
+Hi I'm Summer,
 
-I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
+I'm currently studying at the University of Essex. Focusing mainly on economics and history.
 
-Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
-
-<br>
-
-## social media links
-- [LinkedIn](https://www.linkedin.com/in/tedor)
-- [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
-
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
 
 <br>
 
-## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
+## contact me
+[carrd](https://summersintro.carrd.co/)
 
-<br>
-
-## acedemic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
 
 <br>
 
 ## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
+- editing the template for my portfolio
+- researching how to add templates
 
 <br>
 
@@ -45,17 +26,12 @@ Note: only link social media that you are happy for people to visit i.e. if your
 
 | date | degree | institute |
 --- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+|ongoing|**BA** in History and Economics |University of Essex|
+
 
 <br>
 
 ## work experience
-### research assistant positions
-#### StoryLab Research Institute
-
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
 Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
