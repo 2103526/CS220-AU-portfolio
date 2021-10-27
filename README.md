@@ -51,6 +51,7 @@ How to use this GitHub repository as a template for your submission, including h
 ## Log
 - filled out to do list
 - started looking at essay
+- created a carrd, helped with learning markdown 
 
 <br>
 
