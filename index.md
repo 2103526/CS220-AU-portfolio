@@ -4,29 +4,21 @@ The information below can be used as a template for your own home page.
 **History and Economics Student**  
 
 Hi I'm Summer,
-
 I'm currently studying at the University of Essex. Focusing my study mainly on economics within history and how the state of the economy reflects the events occouring in different eras.
-
-
 <br>
 
 ## contact me
-[carrd](https://summersintro.carrd.co/)
-
-
+> [carrd](https://summersintro.carrd.co/)
 <br>
-
 ## now
 - editing the template for my portfolio
 - researching how to add templates
-
 <br>
-
 ## educations
 
-| date | degree | institute |
+| Date | Degree | Institute |
 --- | --- | ---
-|ongoing|**BA** in History and Economics |University of Essex|
+|Ongoing|**BA** in History and Economics |University of Essex|
 
 
 <br>
