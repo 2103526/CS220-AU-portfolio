@@ -49,17 +49,17 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-filled out to do list
-started looking at essay
+- filled out to do list
+- started looking at essay
 
 <br>
 
 ## TODO
 ### week 3
 #### index.md
--fill list
--complete diagram thingy
--add to my notes
+- fill list
+- complete di reflection
+- add to my notes
 
 
 <br>
