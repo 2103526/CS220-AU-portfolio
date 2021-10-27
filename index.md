@@ -11,7 +11,7 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 > [carrd](https://summersintro.carrd.co/)
 <br>
 
-##now##
+## I am currently working on:
 - editing the template for my portfolio
 - researching how to add templates
 <br>
