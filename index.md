@@ -10,7 +10,7 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 ## contact me
 > [carrd](https://summersintro.carrd.co/)
 <br>
-## now
+## now ##
 - editing the template for my portfolio
 - researching how to add templates
 <br>
