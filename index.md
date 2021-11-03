@@ -38,7 +38,7 @@ ep20664@essex.ac.uk
 ## To Do List
 - Start My Di-Reflections Essay
 - Finish My Introduction
-- Add in Social Media Links if needed
+- Add in Social Media Links if needed - Linkedin
 - Add in Education tab
 - Add in Work Experience Tab
 
