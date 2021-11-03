@@ -7,20 +7,20 @@ Hello, My name is Eleanor Piller and I am a second year student studying Liberal
 
 <br>
 
-## social media links
+## Social Media Links
 
 
 
 
 <br>
 
-## contact
+## Contact
 
 ep20664@essex.ac.uk
 
 <br>
 
-## acedemic pages/associations/clubs
+## Acedemic Pages/Associations/Clubs
 
 
 <br>
@@ -34,6 +34,7 @@ ep20664@essex.ac.uk
 
 3/11/2021 - Added my contact to the contact file
 
+<br>
 
 ## To Do List
 - Start My Di-Reflections Essay
