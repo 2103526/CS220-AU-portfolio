@@ -16,6 +16,7 @@ Hello, My name is Eleanor Piller and I am a second year student studying Liberal
 
 ## contact
 
+ep20664@essex.ac.uk
 
 <br>
 
@@ -30,6 +31,8 @@ Hello, My name is Eleanor Piller and I am a second year student studying Liberal
 27/10/2021 - Added Items to my To Do list
 
 3/11/2021 - Updated my introudction with more information
+
+3/11/2021 - Added my contact to the contact file
 
 
 ## To Do List
