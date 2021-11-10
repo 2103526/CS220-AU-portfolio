@@ -52,15 +52,17 @@ How to use this GitHub repository as a template for your submission, including h
 - filled out to do list
 - started looking at essay
 - created a carrd, helped with learning markdown 
+- Completed draft of di-reflection essay
 
 <br>
 
 ## TODO
-### week 3
+### week 5
 #### index.md
-- fill list
-- complete di reflection
-- add to my notes
+- add more to log from written notes
+- Edit di-reflection essay and cite
+- Add the V+R graphs
+- Edit Github site
 
 
 <br>
