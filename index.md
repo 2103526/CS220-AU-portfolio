@@ -37,19 +37,7 @@ My key responsibilities in this role includes organising tasks for the ops depar
 And here is an example for embedding an audio player:
 
 <br>
-
-<div class="embed-spotify">
- <iframe src="https://open.spotify.com/embed/playlist/0LC4iyc3L4TxkpIFpN49o2?utm_source=generator" 
-        width="700" 
-        height="480" 
-        frameborder="0" 
-        allowtransparency="true"
-        allow="encrypted-media"
-        webkitallowfullscreen
-        mozallowfullscreen
-        allowfullscreen>
-</iframe>
-</div>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 <br>
 
