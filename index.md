@@ -24,7 +24,7 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 <br>
 
 ## work experience
-11/2019 - ongoing &nbsp; &nbsp; ARU
+11/2019 - ongoing &nbsp; &nbsp;
 
 Customer service assisstant at Waitrose and Partners. 
 
