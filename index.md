@@ -37,8 +37,9 @@ My key responsibilities in this role includes organising tasks for the ops depar
 And here is an example for embedding an audio player:
 
 <br>
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+> [![Spotify](https://open.spotify.com/playlist/0LC4iyc3L4TxkpIFpN49o2?si=dfce84f80e3d440a)
 
 <br>
-
+## References
+> [Spotify embed](https://stackoverflow.com/questions/62940969/can-you-embed-a-spotify-song-to-a-github-readme-file)
 <br><br> 
