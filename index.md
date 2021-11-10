@@ -29,17 +29,8 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 Customer service assisstant at Waitrose and Partners. 
 
 
-My key responsibilities in this role included organising tasks for the ops department, engaging with customers to ensure good service, working shopfloor, manning the tills and the phone, closing duties. 
+My key responsibilities in this role includes organising tasks for the ops department, engaging with customers to ensure good service, working shopfloor, manning the tills and the phone, closing duties. 
 
-<br>
-
-
-
-<br>
-
-Here is an example on how to embed an image from an external website:
-
-![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
 
 <br>
 
@@ -47,7 +38,18 @@ And here is an example for embedding an audio player:
 
 <br>
 
-<iframe src="https://open.spotify.com/embed/playlist/0LC4iyc3L4TxkpIFpN49o2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<div class="embed-spotify">
+ <iframe src="https://open.spotify.com/embed/playlist/0LC4iyc3L4TxkpIFpN49o2?utm_source=generator" 
+        width="700" 
+        height="480" 
+        frameborder="0" 
+        allowtransparency="true"
+        allow="encrypted-media"
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen>
+</iframe>
+</div>
 
 <br>
 
