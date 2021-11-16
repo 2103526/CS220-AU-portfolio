@@ -7,16 +7,25 @@ Hello, My name is Eleanor Piller and I am a second year student studying Liberal
 
 <br>
 
-# Education
+## Education
 
 <br>
 
-# Work Experience
+## Work Experience
+
+
 <br>
+
+## Information on Me
+
+<br>
+
+## My Intrests
+
+<br>
+
 
 ## Social Media Links
-
-
 
 
 <br>
@@ -25,9 +34,6 @@ Hello, My name is Eleanor Piller and I am a second year student studying Liberal
 
 ep20664 [@] essex [.] ac [.] uk
 
-<br>
-
-## Acedemic Pages/Associations/Clubs
 
 
 <br>
@@ -43,6 +49,10 @@ ep20664 [@] essex [.] ac [.] uk
 
 15/11/2021 - Edited the layout of my website
 
+16/11/2021 - Worked on website template in preporation for completing
+
+16/11/2021 - CV contact added
+
 <br>
 
 ## To Do List
@@ -57,4 +67,4 @@ ep20664 [@] essex [.] ac [.] uk
 
 
 
-My full CV can be found
+My full CV is avaiable upon request - Please feel free to email
