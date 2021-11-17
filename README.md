@@ -3,7 +3,6 @@
 This GitHub repository is my Portfolio for the Navagating the Digital World assingment. 
 
 The 'index.md.' is my website which you can access. That covers my personal and work CV, where you can find out more information about my personal and work self.
-
 <br>
 
 ## Portfolio items
