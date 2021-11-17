@@ -1,15 +1,8 @@
 # CS220 AU portfolio
 ## Overview
-This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, your digital portfolio.
+This GitHub repository is my Portfolio for the Navagating the Digital World assingment. 
 
-It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
-- project management
-- writing articles
-- web-design with [GitHub Pages](https://pages.github.com/)
-- self-and peer-assessment
-- final checklist 
-
-The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information.
+The 'index.md.' is my website which you can access. That covers my personal and work CV, where you can find out more information about my personal and work self.
 
 <br>
 
