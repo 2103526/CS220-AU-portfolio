@@ -75,6 +75,7 @@ How to use this GitHub repository as a template for your submission, including h
 - Add in Work Experience Tab
 - Add in information tab
 - Add in Intrests tab
+- Possibly add a picture of myself
 
 <br>
 
