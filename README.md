@@ -1,7 +1,7 @@
 # CS220 AU portfolio
 ## Overview
-I'm using Github to create a website to present my CV in a professional manner.
-I'm also reflecting on my digital presence both professionally and resididently in my di-reflection essay.
+- I'm using Github to create a website to present my CV in a professional manner.
+- I'm also reflecting on my digital presence both professionally and resididently in my di-reflection essay.
 
 <br>
 
@@ -24,10 +24,4 @@ I'm also reflecting on my digital presence both professionally and resididently 
 - Add the V+R graphs
 - Edit Github site
 - Need to look more into mark-down code
-
-
 <br>
-
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
