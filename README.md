@@ -55,7 +55,7 @@ How to use this GitHub repository as a template for your submission, including h
 - Completed draft of di-reflection essay
 - Edited di-reflection essay
 - Started looking into best formats for CV
-
+- Transfered part of my written CV onto my notes, practicing possible layouts for the CV
 
 <br>
 
