@@ -67,15 +67,14 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## TODO
-### week 4 - websites
-#### index.md
-- link good minimal examples
-- beautify index.md
-    - add social media icons for hyperlinks
-## by week 7
-- make screencast demonstrating the submission of this repository
-- go through this repository with students and clarify if needed
+## To Do List
+- Start My Di-Reflections Essay
+- Finish My Introduction
+- Add in Social Media Links if needed - Linkedin
+- Add in Education tab
+- Add in Work Experience Tab
+- Add in information tab
+- Add in Intrests tab
 
 <br>
 
