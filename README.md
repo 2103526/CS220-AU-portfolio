@@ -6,22 +6,21 @@
 <br>
 
 ## Log
-- filled out to do list
-- started looking at essay
-- created a carrd, helped with learning markdown 
-- Completed draft of di-reflection essay
-- Edited di-reflection essay
-- Started looking into best formats for CV
-- Transfered part of my written CV onto my notes, practicing possible layouts for the CV
+- (13/10/2021) Filled out to do list
+- (15/10/2021) Started planning di-reflection essay
+- (28/10/2021) Created a carrd, helped with learning markdown 
+- (03/11/2021) Completed first draft of di-reflection essay
+- (10/11/2021) Edited di-reflection essay
+- (12/11/2021) Started looking into best formats for CV
+- (14/11/2021) Transfered part of my written CV onto my notes, practicing possible layouts for the CV
 
 <br>
 
 ## TODO
 ### week 6
 #### index.md
-- add more to log from written notes
 - Edit di-reflection essay and cite
-- Add the V+R graphs
+- Add the V+R graphs to the essay
 - Edit Github site
 - Need to look more into mark-down code
 <br>
