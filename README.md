@@ -18,7 +18,6 @@
 
 ## TODO
 ### week 6
-#### index.md
 - Edit di-reflection essay and cite
 - Add the V+R graphs to the essay
 - Edit Github site
