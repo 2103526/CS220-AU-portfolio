@@ -35,37 +35,6 @@ Hello, My name is Eleanor Piller and I am a second year student studying Liberal
 ep20664 [@] essex [.] ac [.] uk
 
 
-
-<br>
-
-## Log
-22/10/2021 - Started creating my homepage for my website
-
-27/10/2021 - Added Items to my To Do list
-
-3/11/2021 - Updated my introudction with more information
-
-3/11/2021 - Added my contact to the contact file
-
-15/11/2021 - Edited the layout of my website
-
-16/11/2021 - Worked on website template in preporation for completing
-
-16/11/2021 - CV contact added
-
-16/11/2021 - Added to my TO DO list
-
-<br>
-
-## To Do List
-- Start My Di-Reflections Essay
-- Finish My Introduction
-- Add in Social Media Links if needed - Linkedin
-- Add in Education tab
-- Add in Work Experience Tab
-- Add in information tab
-- Add in Intrests tab
-
 <br>
 
 
