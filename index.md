@@ -53,6 +53,8 @@ ep20664 [@] essex [.] ac [.] uk
 
 16/11/2021 - CV contact added
 
+16/11/2021 - Added to my TO DO list
+
 <br>
 
 ## To Do List
@@ -61,6 +63,8 @@ ep20664 [@] essex [.] ac [.] uk
 - Add in Social Media Links if needed - Linkedin
 - Add in Education tab
 - Add in Work Experience Tab
+- Add in information tab
+- Add in Intrests tab
 
 
 <br>
