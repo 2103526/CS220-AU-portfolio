@@ -57,6 +57,10 @@ How to use this GitHub repository as a template for your submission, including h
 
 16/11/2021 - Added to my TO DO list
 
+22/11/2021 - Wrote the whole essay - still needs work
+
+22/11/2021 - Added to my TO DO list - finishing essay off
+
 <br>
 
 ## To Do List
@@ -68,5 +72,7 @@ How to use this GitHub repository as a template for your submission, including h
 - Add in information tab
 - Add in Intrests tab
 - Possibly add a picture of myself
+- Check essay over
+- Add V&R maps to essay
 
 <br>
