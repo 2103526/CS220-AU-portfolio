@@ -13,13 +13,15 @@
 - (10/11/2021) Edited di-reflection essay
 - (12/11/2021) Started looking into best formats for CV
 - (14/11/2021) Transfered part of my written CV onto my notes, practicing possible layouts for the CV
+- (20/11/2021) Edited di-reflection essay
+- (30/11/2021) Chose a theme for the website
 
 <br>
 
 ## To Do
-### Week 6
+### Week 8
 - Edit di-reflection essay and cite
 - Add the V+R graphs to the essay
-- Edit Github site
+- Sort website theme - look more into Jekyll
 - Need to look more into mark-down code
 <br>
