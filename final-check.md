@@ -1,4 +1,4 @@
-Student number: <!-- #todo : add your student number -->    
+Student number: 2103526   
 Module code: CS220 AU  
 Coursework title: Digital Portfolio  
 Marker: Krisztian Hofstadter  
@@ -10,12 +10,12 @@ GitHub repository URL: <!-- #todo : add the URL of your repository -->
 ### General
 I made sure that
 - [x] my GitHub username matches my student number
-- [ ] my repository to submit is named 'CS220-AU-portfolio'
+- [x] my repository to submit is named 'CS220-AU-portfolio'
 
 ### Website
 I used the `index.md` file 
 - [ ] to support one of my own professional/institutional identities (or projects) and used the GitHub Pages function to turn this file into a website. I understand that as an alternative to GitHub Pages, I could have used another content management system e.g. WordPress to create my website and that I could have added additional pages if essential.
-- [ ] I provided a URL to my website in my repository's sidebar
+- [x] I provided a URL to my website in my repository's sidebar
 
 ### DI Reflection
 - [ ] I wrote my reflection on digital identities focusing on developing my own digital identities 
