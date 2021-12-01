@@ -5,7 +5,7 @@ Hi I'm Summer,
 I'm currently studying at the University of Essex. Focusing my study mainly on economics within history and how the state of the economy reflects the events occouring in different eras.
 <br>
 
-## contact me
+## Contact me
 > [carrd](https://summersintro.carrd.co/)
 <br>
 
