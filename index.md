@@ -9,6 +9,25 @@ Hello, My name is Eleanor Piller and I am a second year student studying Liberal
 
 ## Education
 
+### A-Level Grades:
+- Media Studies - C
+- Photography - C
+- History - D
+
+### AS Level Grades:
+- Psychology - D
+
+### GCSE Grades:
+- English Language - 6
+- English Lit - 4
+- English Speaking Qualification - Distinction
+- Maths - 6
+- Core Science - B
+- Additional Science - B
+- History - B
+- Media Studies - A
+- French - C
+- Drama - C
 <br>
 
 ## Work Experience
