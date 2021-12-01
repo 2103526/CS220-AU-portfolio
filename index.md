@@ -15,7 +15,7 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 
 ## Education
 
-| Date | Degree | Institute |
+| Date | Level of education | Institute |
 --- | --- | ---
 |Ongoing|**BA** in History and Economics |University of Essex|
 
