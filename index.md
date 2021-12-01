@@ -23,8 +23,8 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 <br>
 
 ## Work experience
-07/2018 - work experience week 
-11/2019 - ongoing &nbsp; &nbsp;
+- 25/07/2018 - work experience week - 
+- 11/2019 - ongoing &nbsp; &nbsp;
 
 Customer service assisstant at Waitrose and Partners. 
 
