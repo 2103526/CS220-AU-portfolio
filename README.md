@@ -1,7 +1,7 @@
 # CS220 AU portfolio
 ## Overview
-- I'm using Github to create a website to present my CV in a professional manner.
-- I'm also reflecting on my digital presence both professionally and resididently in my di-reflection essay.
+- I'm using Github to create a website to present my CV in a professional manner, I would rather use GitHub pages as I find it more customisable and easier to edit than some other platforms.
+- I'm also reflecting on mine and others digital presence both professionally and resididently in my di-reflection essay.
 
 <br>
 
