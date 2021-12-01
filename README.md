@@ -62,6 +62,8 @@ How to use this GitHub repository as a template for your submission, including h
 22/11/2021 - Added to my TO DO list - finishing essay off
 
 1/12/2021 - Added Website Link to my GitHub
+
+1/12/2021 - Added in Education Information
 <br>
 
 ## To Do List
