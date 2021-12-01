@@ -37,6 +37,6 @@ My key responsibilities in this role includes organising tasks for the ops depar
 
 ## Projects
 
-Some of my projects involve promoting vegitarianism and veganism and the environmental impact of eating meat and using animal projects.
+Some of my projects involve promoting vegitarianism and veganism and the environmental impact of eating meat and using animal ingedients in products.
 
 <br> <br>
