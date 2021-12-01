@@ -34,17 +34,7 @@ My key responsibilities in this role includes organising tasks for the ops depar
 
 
 <br>
+
 Some of my projects involve promoting vegitarianism and veganism and the environmental impact of eating meat and using animal projects.
 
-<br> 
-
-And here is an example for embedding an audio player:
-
-<br>
-> [Spotify](https://open.spotify.com/playlist/0LC4iyc3L4TxkpIFpN49o2?si=dfce84f80e3d440a)
-
-<br>
-
-## References
-> [Spotify embed](https://stackoverflow.com/questions/62940969/can-you-embed-a-spotify-song-to-a-github-readme-file)
-<br><br> 
+<br> <br>
