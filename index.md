@@ -11,7 +11,6 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 
 ## I am currently working on:
 - Making my CV
-- Promoting vegetarianism
 <br>
 
 ## Education
