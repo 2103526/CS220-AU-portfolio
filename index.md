@@ -10,8 +10,8 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 <br>
 
 ## I am currently working on:
-- editing the template for my portfolio
-- researching how to add templates
+- Making my CV
+- Promoting vegetarianism
 <br>
 
 ## Education
