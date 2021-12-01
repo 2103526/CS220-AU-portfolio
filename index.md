@@ -14,7 +14,7 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 - researching how to add templates
 <br>
 
-## educations
+## Education
 
 | Date | Degree | Institute |
 --- | --- | ---
@@ -23,7 +23,8 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 
 <br>
 
-## work experience
+## Work experience
+07/2018 - work experience week 
 11/2019 - ongoing &nbsp; &nbsp;
 
 Customer service assisstant at Waitrose and Partners. 
@@ -33,6 +34,9 @@ My key responsibilities in this role includes organising tasks for the ops depar
 
 
 <br>
+Some of my projects involve promoting vegitarianism and veganism and the environmental impact of eating meat and using animal projects.
+
+<br> 
 
 And here is an example for embedding an audio player:
 
