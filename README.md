@@ -20,9 +20,7 @@
 
 ## To Do
 ### Week 8
-- Edit di-reflection essay and cite
-- Add the V+R graphs to the essay
-- Sort website theme - look more into Jekyll
-- Need to look more into mark-down code
-- add pcitures and more about my project onto CV - show skills I have used that would apply in a professional setting
+- Edit di-reflection essay - structure and make bullet points into full paragraphs
+- Add the V+R graphs from my tablet to the essay.
+- add pictures and more about my project onto CV - show skills I have used that would apply in a professional setting
 <br>
