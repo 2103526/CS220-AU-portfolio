@@ -19,7 +19,7 @@
 <br>
 
 ## To Do
-### Week 8
+### Week 9
 - Edit di-reflection essay - structure and make bullet points into full paragraphs
 - Add the V+R graphs from my tablet to the essay.
 - add pictures and more about my project onto CV - show skills I have used that would apply in a professional setting
