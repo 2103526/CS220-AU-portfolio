@@ -9,6 +9,8 @@ Hello, My name is Eleanor Piller and I am a second year student studying Liberal
 
 ## Education
 
+### Moulsham High School
+
 ### A-Level Grades:
 - Media Studies - C
 - Photography - C
