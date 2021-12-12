@@ -2,7 +2,7 @@
 **History and Economics Student**  
 
 Hi I'm Summer,
-I'm currently studying at the University of Essex. Focusing my study mainly on economics within history and how the state of the economy reflects the events occouring in different eras.
+I'm currently studying at the University of Essex. Focusing my study mainly on economics within history and how the state of the economy reflects the major events occouring in different eras.
 <br>
 
 ## Contact me
@@ -27,16 +27,20 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 - 25/07/2018 - work experience week - Wilmot-Budgen
 - 11/2019 - ongoing &nbsp; &nbsp;
 
-Customer service assisstant at Waitrose and Partners. 
+Supermarket assisstant at Waitrose and Partners. 
 
 
 My key responsibilities in this role includes organising tasks for the ops department, engaging with customers to ensure good service, working shopfloor, manning the tills and the phone, closing duties. 
+This gives me customer service experience, the ability to work in a fast pace environment and being able to deal with the challenges that come along with that. Along with the skill to be trained quickly and work efficiently. 
 
 
 <br>
 
-## Projects
+## Interests
 
-Some of my projects involve promoting vegitarianism and veganism and the environmental impact of eating meat and using animal ingedients in products.
+- Some of my interests involve promoting vegitarianism and veganism and the environmental impact of eating meat and using animal ingedients in products.
+- Researching inequality in society (focused on classism, gender, sexuality and race) and the changes we can all make to become equals.
+
+
 
 <br> <br>
