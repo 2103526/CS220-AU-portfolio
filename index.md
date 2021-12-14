@@ -30,9 +30,7 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 
 ## Work experience
 - 25/07/2018 - work experience week - Wilmot-Budgen
-- 11/2019 - ongoing &nbsp; &nbsp;
-
-Supermarket assisstant at Waitrose and Partners. 
+- 11/2019 - ongoing &nbsp; &nbsp; Supermarket assisstant at Waitrose and Partners. 
 
 
 My key responsibilities in this role includes organising tasks for the ops department, engaging with customers to ensure good service, working shopfloor, manning the tills and the phone, closing duties. 
