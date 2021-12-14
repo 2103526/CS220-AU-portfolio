@@ -5,7 +5,7 @@ Hi I'm Summer,
 I'm currently studying at the University of Essex. Focusing my study mainly on economics within history and how the state of the economy reflects the major events occouring in different eras.
 <br>
 
-![a picture of me](/CS220-AU-portfolio/assets/img/Face.jpg)
+![a picture of me](cs220-AU-portfolio/assets/img/face.jpg)
 
 <br>
 
