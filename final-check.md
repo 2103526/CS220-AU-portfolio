@@ -30,12 +30,8 @@ In the `assessement.md` file I
 - [x] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
 
 The student number of the student I provided feedback with is: 2103801
-
-<!-- #todo : 
-- delete all unnecessary HTML comments in this file 
+ 
 - download this .md file to your computer
 - rename both files to submit on FASER so that they show your student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.md` 
-- submit these two files on FASER
-- relax
--->
+
 
