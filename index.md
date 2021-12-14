@@ -20,7 +20,7 @@ I'm currently studying at the University of Essex. Focusing my study mainly on e
 
 ## Education
 
-| Date | Level of education | Institute |
+| **Date** | **Level of education** | **Institute** |
 --- | --- | ---
 |Ongoing|**BA** in History and Economics |University of Essex|
 |09/2019-06/2021|**A-LEVEL** |Sackville School|
