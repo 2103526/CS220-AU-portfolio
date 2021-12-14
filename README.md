@@ -15,12 +15,11 @@
 - (14/11/2021) Transfered part of my written CV onto my notes, practicing possible layouts for the CV
 - (20/11/2021) Edited di-reflection essay
 - (30/11/2021) Chose a theme for the website
+- (07/12/2021) Added V+R graphs
+- (13/12/2021) Finalising digital Identity essay
 
 <br>
 
 ## To Do
-### Week 9
-- Edit di-reflection essay - structure and make bullet points into full paragraphs
-- Add the V+R graphs from my tablet to the essay.
 - add pictures and more about my project onto CV - show skills I have used that would apply in a professional setting
 <br>
