@@ -17,6 +17,7 @@
 - (30/11/2021) Chose a theme for the website
 - (07/12/2021) Added V+R graphs
 - (13/12/2021) Finalising digital Identity essay
+- (14/12/2021) Added image of me to website
 - (14/12/2021) Final changes to repository
 <br>
 
