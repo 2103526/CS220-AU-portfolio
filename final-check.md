@@ -31,7 +31,3 @@ In the `assessement.md` file I
 
 The student number of the student I provided feedback with is: 2103801
  
-- download this .md file to your computer
-- rename both files to submit on FASER so that they show your student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.md` 
-
-
