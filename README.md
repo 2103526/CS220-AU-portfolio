@@ -19,6 +19,7 @@
 - (13/12/2021) Finalising digital Identity essay
 - (14/12/2021) Added image of me to website
 - (14/12/2021) Final changes to repository
+- (16/12/2021) Fixed issue with the image not appearing on the website
 <br>
 
 <br>
